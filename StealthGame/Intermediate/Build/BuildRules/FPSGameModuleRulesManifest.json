@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/muhammadasad/Downloads/StealthGame_ProjectBase_4.25/StealthGame/Source/FPSGame/FPSGame.Build.cs",
+		"/Users/muhammadasad/Downloads/StealthGame_ProjectBase_4.25/StealthGame/Source/FPSGame.Target.cs",
+		"/Users/muhammadasad/Downloads/StealthGame_ProjectBase_4.25/StealthGame/Source/FPSGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.0"
+}
